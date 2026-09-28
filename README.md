@@ -40,7 +40,7 @@ You should see a version number.
 
 ### Step 3 — Place the config file (manual)
 
-1. Get the file `opencode(Alaadin Alqobati).json` from **Sharif** and copy it to your machine.
+1. Get the file `opencode(Your Name).json` from **Sharif** and copy it to your machine.
 2. Press **Win + R**, type `%USERPROFILE%`, and hit **Enter** — this opens your user folder (`C:\Users\<YourName>`).
 3. Inside it, create a folder named `.config`, and inside that, a folder named `opencode`.
 4. Move the file into that `opencode` folder and rename it to exactly: **`opencode.json`**
@@ -119,7 +119,7 @@ opencode --version
 
 ### الخطوة 3 — وضع ملف الإعدادات (يدوياً)
 
-1. خذ الملف `opencode(Alaadin Alqobati).json` من **شريف** وانسخه إلى جهازك.
+1. خذ الملف `opencode(YourName).json` من **شريف** وانسخه إلى جهازك.
 2. اضغط **Win + R**، واكتب `%USERPROFILE%`، ثم اضغط **Enter** — سيفتح مجلد المستخدم الخاص بك (`C:\Users\<اسمك>`).
 3. بداخله، أنشئ مجلداً باسم `.config`، وبداخله مجلداً باسم `opencode`.
 4. انقل الملف إلى مجلد `opencode` وأعد تسميته بالضبط إلى: **`opencode.json`**
